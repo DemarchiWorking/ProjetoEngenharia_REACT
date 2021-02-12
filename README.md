@@ -1,2 +1,2 @@
 # ProjetoEngenharia_REACT
-Projeto para uma empresa de Engenharia Civil
+Projeto Front-End de uma Empresa de Engenharia.
